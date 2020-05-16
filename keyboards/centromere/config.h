@@ -38,7 +38,8 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 /* number of backlight levels */
 //#define BACKLIGHT_LEVELS 3
 
-#define ONESHOT_TIMEOUT 500
+// #define ONESHOT_TIMEOUT 500
+#define IGNORE_MOD_TAP_INTERRUPT
 
 /*
  * Feature disable options
